@@ -1,0 +1,501 @@
+study_hours_per_week,sleep_hours_per_day,attendance_percentage,assignments_completed,final_grade,participation_level,internet_access,parental_education,extracurricular,part_time_job
+52.72,6.85,0.99,0.22,71.10,medium,Yes,,Yes,No
+42.14,8.82,0.88,0.56,62.24,medium,Yes,,No,No
+55.24,2.20,0.68,1.00,65.27,medium,Yes,,Yes,No
+69.83,6.13,0.52,0.22,66.61,low,Yes,,Yes,No
+40.54,3.70,0.83,0.33,58.97,medium,Yes,High School,Yes,No
+40.54,4.03,0.76,0.56,63.18,high,No,PhD,Yes,Yes
+70.76,3.82,0.88,0.89,68.48,medium,Yes,Master,No,Yes
+57.24,3.27,0.82,0.22,61.12,medium,Yes,,Yes,No
+36.62,5.10,0.91,0.33,59.60,high,Yes,High School,No,No
+53.49,3.34,0.55,0.44,72.15,high,Yes,,No,No
+36.72,5.54,0.97,0.78,66.58,medium,Yes,High School,Yes,No
+36.68,4.90,0.72,0.44,56.51,low,Yes,High School,Yes,No
+48.48,4.52,1.00,0.56,68.69,high,Yes,,No,Yes
+12.56,3.18,0.51,0.67,59.68,high,Yes,,Yes,Yes
+15.70,3.85,1.00,0.44,63.47,high,Yes,,No,No
+35.07,6.51,0.72,0.44,69.15,high,Yes,High School,Yes,No
+27.56,6.00,0.52,0.56,58.90,medium,Yes,,Yes,No
+49.68,3.04,0.56,0.89,61.90,medium,Yes,High School,Yes,Yes
+29.31,5.20,0.60,1.00,68.15,low,Yes,PhD,Yes,No
+20.91,6.50,0.77,0.56,58.72,medium,Yes,,No,No
+68.87,1.66,0.79,0.89,67.12,medium,No,Master,Yes,Yes
+40.68,6.09,0.54,0.22,57.38,medium,No,,No,No
+45.57,3.67,0.66,0.78,67.25,medium,Yes,High School,Yes,No
+20.70,6.14,1.00,0.67,66.22,high,Yes,PhD,Yes,No
+35.37,3.47,1.00,0.67,66.33,medium,Yes,,Yes,No
+46.29,1.39,0.77,0.44,56.97,medium,Yes,,Yes,Yes
+25.26,1.74,0.68,0.67,56.35,low,Yes,,Yes,No
+50.71,5.10,0.70,1.00,66.50,medium,No,High School,Yes,Yes
+34.43,5.52,0.81,0.44,69.20,high,No,Master,No,No
+39.58,3.19,0.43,0.78,66.73,medium,Yes,,Yes,No
+34.42,6.28,0.61,0.44,69.95,high,Yes,,Yes,No
+75.32,1.68,0.28,0.11,63.12,medium,Yes,High School,No,No
+44.22,4.87,0.76,0.67,65.00,medium,Yes,High School,No,No
+26.82,2.58,0.82,0.11,56.11,medium,Yes,Master,Yes,No
+58.15,3.70,0.56,0.44,68.97,medium,Yes,Master,Yes,No
+24.10,5.09,1.00,1.00,71.21,high,Yes,High School,No,No
+47.93,3.28,0.39,0.78,62.42,medium,Yes,High School,Yes,No
+11.78,4.23,0.33,0.22,57.80,high,Yes,Master,Yes,No
+22.31,7.01,0.72,0.44,60.49,medium,Yes,,Yes,No
+47.73,3.85,0.91,0.00,59.74,high,Yes,,No,No
+56.75,6.67,1.00,0.00,64.56,low,Yes,,Yes,No
+47.30,2.74,0.56,0.56,61.41,high,Yes,High School,No,Yes
+42.52,6.06,0.92,0.67,73.03,medium,Yes,Master,Yes,Yes
+39.43,7.88,0.66,0.56,61.32,medium,Yes,PhD,No,Yes
+19.80,0.06,0.63,0.11,46.10,medium,Yes,High School,Yes,No
+32.45,3.41,0.87,0.33,63.04,high,Yes,,Yes,No
+36.77,6.15,0.82,0.44,62.00,low,Yes,,No,No
+62.06,4.59,0.31,0.44,62.80,medium,No,,Yes,No
+50.17,5.74,1.00,0.11,68.46,high,Yes,,Yes,No
+15.06,3.79,0.99,0.22,53.48,medium,Yes,Master,Yes,No
+49.85,5.17,0.53,1.00,59.54,low,Yes,,Yes,Yes
+38.03,4.69,0.76,0.89,65.02,medium,Yes,,Yes,Yes
+33.16,7.34,0.78,0.11,54.90,medium,Yes,,No,No
+54.64,5.51,0.73,0.56,66.07,high,No,High School,Yes,No
+61.63,5.68,0.54,0.33,70.27,high,Yes,High School,Yes,No
+59.97,4.18,0.51,0.11,57.28,medium,Yes,Master,Yes,Yes
+30.46,4.02,0.66,0.22,60.41,high,No,High School,No,No
+39.29,4.13,0.94,1.00,70.79,medium,Yes,Master,No,Yes
+49.97,5.79,0.80,0.67,56.83,low,Yes,,Yes,Yes
+60.70,4.16,0.58,0.44,59.75,medium,Yes,,Yes,Yes
+36.46,5.58,0.85,0.89,57.26,medium,Yes,,No,Yes
+41.35,9.15,0.01,0.78,60.12,low,Yes,,Yes,No
+26.01,6.74,0.94,0.89,68.75,high,Yes,High School,No,Yes
+24.51,4.35,0.27,1.00,63.68,high,Yes,,No,No
+57.99,7.40,0.59,0.67,73.07,medium,Yes,Master,No,No
+67.05,4.18,0.41,0.44,60.39,medium,Yes,Master,Yes,Yes
+43.24,0.92,0.37,0.22,56.99,high,Yes,,No,Yes
+61.17,2.98,0.94,0.56,69.21,high,Yes,,No,No
+50.47,1.26,0.56,0.67,62.75,high,Yes,High School,Yes,Yes
+33.69,4.30,0.75,0.33,58.08,medium,Yes,High School,Yes,No
+50.47,5.04,0.66,0.44,60.76,high,No,High School,Yes,No
+70.08,8.35,0.78,0.44,68.58,medium,Yes,Master,Yes,Yes
+43.85,5.65,0.69,0.78,69.53,medium,Yes,High School,Yes,No
+70.52,4.56,0.37,0.78,63.83,low,Yes,High School,Yes,Yes
+0.78,6.66,0.90,0.33,54.38,low,Yes,,Yes,No
+58.14,0.58,0.56,0.11,57.44,medium,Yes,High School,Yes,No
+45.90,5.47,0.31,0.11,55.55,medium,Yes,,Yes,Yes
+39.46,6.54,0.57,0.11,45.14,low,Yes,High School,No,Yes
+45.97,2.04,1.00,0.67,66.33,high,Yes,High School,No,No
+11.32,7.29,0.87,0.44,55.19,low,Yes,,Yes,No
+40.78,5.68,0.59,0.89,70.47,medium,Yes,,Yes,Yes
+50.40,4.17,0.59,0.56,68.58,medium,Yes,Master,Yes,No
+69.08,6.27,0.60,1.00,83.47,high,Yes,,No,No
+35.81,9.54,1.00,0.78,72.39,medium,Yes,,No,No
+30.97,5.36,0.76,0.11,49.23,low,Yes,Master,No,Yes
+36.08,5.50,0.77,0.00,56.82,medium,Yes,High School,Yes,No
+59.70,4.08,0.91,0.22,68.42,high,Yes,,No,No
+49.92,3.30,0.72,0.78,65.05,high,Yes,,Yes,Yes
+35.62,6.66,0.61,0.22,57.91,medium,Yes,,No,No
+53.00,3.29,0.62,0.11,58.82,medium,Yes,,Yes,No
+46.06,5.14,0.65,0.78,77.22,high,Yes,Master,No,No
+60.59,4.04,0.66,0.33,55.38,low,Yes,PhD,Yes,Yes
+32.74,5.96,0.84,0.78,68.96,medium,Yes,,No,No
+38.98,5.67,0.68,0.89,63.95,medium,Yes,,No,No
+37.91,7.08,0.84,0.22,53.26,low,Yes,High School,Yes,No
+20.05,3.98,0.65,0.56,58.42,medium,No,,Yes,No
+49.38,4.46,0.69,0.33,63.88,medium,Yes,,No,No
+48.80,3.04,0.21,0.67,65.74,medium,Yes,,Yes,No
+44.53,4.11,0.88,0.89,73.07,high,No,PhD,Yes,Yes
+40.53,5.75,0.75,1.00,76.04,medium,Yes,,Yes,No
+20.85,6.51,0.90,0.11,62.78,high,Yes,,Yes,No
+37.43,3.16,0.00,0.56,49.55,low,Yes,,Yes,Yes
+38.73,6.74,1.00,0.22,66.23,medium,Yes,Master,Yes,No
+31.07,7.71,0.64,0.89,69.49,low,Yes,Master,Yes,No
+41.76,5.83,0.93,0.56,64.94,high,Yes,,Yes,Yes
+51.18,8.75,0.43,0.00,60.11,high,Yes,,No,Yes
+75.88,3.45,0.81,0.78,70.46,medium,Yes,Master,No,Yes
+47.35,2.51,0.43,1.00,58.88,high,Yes,High School,No,Yes
+48.74,1.44,0.53,0.44,62.20,medium,Yes,Master,Yes,No
+43.20,7.99,1.00,0.56,63.55,high,Yes,,No,Yes
+12.46,6.31,0.63,0.00,56.26,high,Yes,,Yes,No
+44.00,4.89,0.72,0.33,68.69,high,Yes,,Yes,No
+45.45,5.56,0.87,0.00,56.82,medium,Yes,Master,No,Yes
+85.50,2.75,0.78,0.89,74.96,low,Yes,High School,No,No
+41.24,9.89,0.70,0.89,69.25,medium,Yes,Master,No,No
+49.47,5.26,0.75,0.56,64.97,low,Yes,,No,No
+43.87,5.22,1.00,1.00,70.61,medium,Yes,,Yes,Yes
+24.97,6.45,0.66,1.00,57.34,medium,Yes,High School,Yes,Yes
+63.49,5.96,0.72,0.00,67.91,medium,No,,No,No
+56.98,5.45,0.91,1.00,70.05,low,Yes,,Yes,No
+57.63,3.42,0.93,0.44,59.55,low,Yes,,Yes,No
+29.29,5.94,0.94,0.67,61.72,medium,Yes,Master,No,No
+67.82,8.76,0.82,0.33,71.26,high,Yes,,No,Yes
+21.08,7.69,0.41,0.56,63.95,medium,Yes,PhD,Yes,No
+54.23,8.19,1.00,0.67,69.45,medium,Yes,,No,Yes
+80.95,3.98,0.40,0.44,69.94,high,Yes,Master,No,Yes
+27.94,3.02,0.74,0.56,56.13,medium,No,High School,No,No
+35.01,4.75,0.50,0.33,54.41,medium,Yes,,Yes,Yes
+46.11,5.11,0.65,0.44,57.84,medium,Yes,,Yes,No
+36.05,7.19,0.75,0.78,67.31,medium,Yes,,Yes,No
+18.60,1.62,0.74,0.67,49.90,high,No,Master,Yes,Yes
+45.59,8.06,0.77,0.67,65.72,low,Yes,High School,Yes,No
+26.74,4.68,1.00,0.00,52.01,medium,Yes,High School,Yes,No
+52.34,4.15,0.77,0.33,59.05,low,No,Master,Yes,No
+29.12,2.98,0.61,0.67,58.88,medium,Yes,High School,No,Yes
+70.28,1.69,0.89,0.11,66.51,high,Yes,Master,Yes,No
+31.39,6.65,0.94,1.00,72.06,medium,Yes,,No,No
+39.08,5.15,0.39,0.56,57.42,low,Yes,Master,No,No
+58.00,2.42,0.81,0.89,70.82,medium,Yes,High School,Yes,Yes
+23.93,2.41,0.83,0.33,48.68,low,Yes,High School,No,No
+48.24,4.33,0.60,0.56,54.74,low,Yes,,Yes,Yes
+66.23,8.34,0.99,0.44,83.48,high,Yes,PhD,Yes,No
+17.65,4.48,0.63,0.89,60.19,high,Yes,,No,Yes
+47.52,1.99,0.70,0.56,63.84,high,Yes,,Yes,No
+48.78,4.51,0.63,0.89,70.06,high,Yes,,No,No
+57.47,4.45,0.67,0.00,61.52,medium,Yes,PhD,Yes,Yes
+23.83,0.00,0.42,0.22,47.60,low,Yes,Master,No,Yes
+22.44,4.89,0.34,0.22,55.87,high,Yes,PhD,Yes,No
+53.14,4.54,1.00,0.33,67.56,high,Yes,High School,No,No
+49.39,6.39,0.47,1.00,75.70,high,Yes,High School,Yes,No
+48.62,8.70,0.44,0.22,63.58,medium,Yes,,No,No
+50.22,7.25,0.17,0.44,65.72,medium,Yes,Master,No,Yes
+33.11,4.46,0.52,0.44,63.04,high,Yes,,Yes,No
+48.32,2.79,0.36,1.00,67.75,high,Yes,High School,No,No
+49.33,10.00,1.00,0.67,81.63,high,Yes,Master,Yes,No
+32.54,5.12,0.90,0.56,57.65,low,Yes,High School,No,No
+75.54,5.03,0.51,0.56,69.39,medium,Yes,,Yes,No
+52.34,4.95,1.00,0.11,63.78,medium,Yes,,No,No
+24.59,5.40,0.90,0.78,59.35,high,No,,No,Yes
+55.39,4.71,0.59,1.00,67.39,low,Yes,Master,Yes,No
+28.20,3.85,0.09,0.33,48.11,low,Yes,,Yes,No
+57.56,3.91,1.00,0.67,74.67,high,Yes,,Yes,Yes
+63.75,4.93,0.35,0.67,53.42,low,Yes,,No,No
+30.77,3.91,0.29,0.67,61.47,high,No,,Yes,No
+60.50,3.57,0.91,0.00,61.97,medium,Yes,,Yes,No
+51.32,5.21,1.00,0.56,66.22,high,Yes,,No,No
+58.15,4.49,0.99,0.67,70.19,medium,Yes,High School,Yes,No
+76.06,8.01,0.80,0.44,74.59,high,Yes,High School,No,Yes
+40.35,0.00,0.81,0.33,61.68,high,Yes,High School,Yes,No
+31.88,7.18,0.87,0.11,48.10,low,Yes,,Yes,No
+29.62,7.49,0.85,1.00,70.82,low,Yes,Master,No,No
+30.85,0.85,0.73,0.89,61.22,medium,Yes,Master,Yes,No
+43.16,4.31,0.69,0.67,65.98,medium,Yes,Master,Yes,Yes
+50.13,4.26,0.66,0.44,68.92,high,Yes,,No,No
+49.06,2.18,0.50,1.00,64.04,medium,Yes,,Yes,No
+58.23,3.44,0.60,0.11,61.63,medium,Yes,,No,No
+44.66,2.78,0.28,0.78,55.30,low,Yes,High School,No,No
+68.67,8.50,0.65,0.56,70.10,high,Yes,High School,Yes,No
+40.03,6.87,0.44,0.56,71.50,high,Yes,,Yes,No
+89.78,7.54,0.41,0.22,72.62,medium,Yes,PhD,No,No
+54.87,6.44,0.71,0.67,63.23,medium,No,High School,Yes,No
+30.16,2.74,0.99,0.22,51.02,low,Yes,High School,Yes,No
+26.60,3.95,0.88,0.33,60.04,medium,Yes,Master,No,No
+52.49,5.98,0.31,0.56,64.92,medium,Yes,,Yes,No
+40.72,2.56,0.44,0.22,54.73,low,Yes,Master,No,No
+56.34,6.43,0.89,1.00,69.90,medium,Yes,Master,Yes,Yes
+52.33,4.52,0.44,0.89,69.94,medium,Yes,PhD,Yes,No
+43.23,4.25,0.62,0.67,61.06,medium,Yes,,Yes,Yes
+30.33,6.42,0.80,0.33,64.71,medium,No,Master,No,No
+19.20,5.89,0.45,0.67,54.26,low,Yes,,No,No
+37.00,4.28,0.69,0.67,69.76,high,Yes,,No,No
+58.72,7.32,0.36,0.00,66.03,high,Yes,,Yes,No
+48.01,2.84,0.53,0.44,55.60,medium,Yes,High School,Yes,Yes
+23.68,6.23,0.74,0.56,56.77,low,Yes,,Yes,No
+47.33,6.19,0.30,0.56,67.60,high,Yes,,Yes,No
+50.87,4.38,0.77,0.44,69.50,high,No,Master,Yes,No
+29.71,5.65,0.67,0.33,58.43,medium,No,Master,No,Yes
+47.01,2.50,0.80,0.22,62.68,medium,Yes,Master,Yes,No
+45.41,6.85,0.72,0.78,66.94,low,Yes,High School,No,No
+25.39,4.63,0.99,0.22,57.11,medium,Yes,Master,Yes,No
+50.41,3.95,0.70,0.56,58.73,low,Yes,,No,No
+53.79,7.10,0.57,0.56,67.93,medium,Yes,Master,Yes,No
+62.50,3.59,0.70,0.56,72.27,medium,Yes,PhD,Yes,No
+62.01,2.18,0.80,0.33,61.82,medium,Yes,High School,Yes,No
+21.48,1.89,0.68,0.56,60.48,medium,Yes,Master,Yes,No
+28.81,6.21,0.68,0.44,54.21,medium,Yes,High School,Yes,Yes
+53.03,2.44,0.51,0.78,65.52,medium,Yes,,Yes,No
+53.01,8.51,0.52,0.44,65.82,low,Yes,,Yes,No
+53.03,0.84,0.35,0.56,45.11,low,Yes,High School,No,Yes
+100.00,8.39,1.00,0.67,92.01,high,Yes,Master,No,Yes
+53.96,5.42,0.38,0.56,58.47,low,Yes,High School,No,No
+63.37,4.81,0.51,0.33,59.02,high,Yes,High School,Yes,Yes
+60.34,3.91,0.50,0.67,70.71,high,Yes,,No,No
+55.30,5.80,0.88,0.44,66.84,medium,Yes,Master,Yes,Yes
+39.19,4.92,0.60,0.56,66.58,medium,Yes,PhD,Yes,No
+57.09,7.21,0.96,0.89,77.02,medium,Yes,Master,Yes,Yes
+31.56,5.23,0.51,0.44,64.88,high,Yes,Master,Yes,Yes
+40.50,5.30,0.73,0.67,70.45,high,Yes,,Yes,No
+36.36,4.27,0.48,0.56,65.13,high,Yes,High School,Yes,No
+45.81,4.89,1.00,0.33,55.88,low,Yes,High School,Yes,Yes
+83.02,5.62,0.40,0.33,73.96,medium,Yes,,No,No
+13.32,1.58,0.74,1.00,56.07,medium,Yes,Master,No,No
+55.88,2.30,0.82,1.00,69.68,medium,Yes,,No,No
+17.57,6.49,0.77,0.22,53.96,low,Yes,Master,No,No
+36.58,5.34,0.63,1.00,66.25,low,Yes,,Yes,No
+62.59,4.63,0.64,0.56,67.50,high,Yes,High School,No,No
+45.52,5.04,0.68,0.44,56.36,medium,Yes,High School,No,No
+26.48,5.70,0.64,0.11,52.42,medium,No,Master,Yes,Yes
+32.52,3.92,0.89,0.22,61.18,medium,Yes,Master,Yes,No
+55.77,3.44,1.00,0.22,73.21,high,Yes,Master,No,No
+32.27,5.39,0.54,0.11,55.56,high,Yes,High School,Yes,No
+48.05,3.04,0.35,0.44,66.65,medium,Yes,PhD,No,No
+45.20,5.82,0.65,0.67,68.72,low,Yes,High School,Yes,No
+33.58,1.59,1.00,0.44,57.27,medium,Yes,High School,Yes,No
+80.18,7.06,0.48,0.33,75.10,high,Yes,PhD,Yes,No
+55.01,5.95,1.00,0.44,67.35,medium,Yes,,Yes,No
+10.69,5.51,1.00,0.11,55.46,medium,Yes,Master,No,No
+47.55,6.97,0.54,0.67,67.33,medium,Yes,High School,No,No
+33.41,8.33,0.80,0.78,63.87,medium,No,,Yes,No
+58.65,7.03,1.00,0.89,85.14,high,Yes,PhD,Yes,Yes
+31.24,1.32,0.58,0.89,56.72,medium,Yes,,No,No
+42.53,2.44,0.62,0.56,53.01,low,Yes,Master,No,No
+52.86,3.75,0.54,0.78,65.15,low,Yes,High School,Yes,No
+58.87,5.05,0.44,0.67,57.80,medium,Yes,,Yes,Yes
+24.44,6.04,0.52,0.56,62.51,high,Yes,,No,No
+38.87,3.55,0.39,0.00,61.18,medium,Yes,High School,No,No
+36.53,5.37,0.68,0.22,63.35,high,Yes,,Yes,No
+33.56,3.49,0.49,0.44,54.85,high,No,High School,Yes,No
+73.87,3.78,0.72,0.44,71.80,medium,Yes,PhD,No,No
+51.19,2.19,0.31,0.56,52.87,low,Yes,,No,Yes
+23.43,3.15,0.75,0.22,47.12,low,Yes,High School,Yes,Yes
+59.74,2.30,0.86,0.44,68.14,high,No,,Yes,No
+79.81,3.05,0.21,0.44,58.35,low,Yes,,No,No
+61.65,7.11,0.76,0.44,73.82,medium,Yes,Master,Yes,Yes
+19.12,3.10,0.95,0.44,59.11,medium,Yes,PhD,Yes,Yes
+36.37,10.00,0.39,0.78,71.67,high,Yes,,Yes,Yes
+65.56,5.99,1.00,0.44,64.10,low,No,Master,Yes,No
+32.65,5.37,0.77,0.67,63.91,medium,Yes,,No,Yes
+51.84,3.28,0.51,0.44,60.44,medium,Yes,High School,Yes,No
+57.36,6.40,0.66,0.22,66.81,medium,Yes,Master,No,No
+29.00,3.85,0.80,0.56,58.86,high,Yes,,Yes,Yes
+43.45,5.24,0.69,1.00,64.64,low,Yes,Master,Yes,No
+0.00,10.00,0.79,0.11,60.32,high,Yes,Master,Yes,Yes
+27.37,4.81,0.46,0.67,58.10,medium,Yes,,No,No
+40.23,7.30,0.71,0.44,62.28,medium,Yes,PhD,No,Yes
+23.65,3.59,0.34,0.67,54.76,medium,No,Master,Yes,No
+71.65,4.93,0.64,0.78,73.99,medium,Yes,,No,No
+20.61,8.54,0.46,0.33,49.03,low,Yes,,No,Yes
+37.11,3.75,0.50,0.89,59.96,medium,Yes,,No,Yes
+46.62,8.62,0.96,0.33,71.89,medium,Yes,PhD,Yes,No
+68.47,6.42,0.92,0.67,66.35,medium,Yes,Master,No,Yes
+20.51,3.88,0.81,0.67,54.68,medium,Yes,High School,Yes,No
+63.83,6.26,0.42,0.44,72.36,high,Yes,,Yes,No
+44.61,6.95,0.60,0.44,61.58,medium,Yes,,No,No
+28.09,6.24,0.95,0.56,61.93,low,Yes,High School,Yes,No
+52.15,1.86,0.70,1.00,70.19,medium,Yes,High School,Yes,No
+47.76,3.55,1.00,0.44,67.70,high,No,,Yes,No
+34.44,4.50,0.76,0.11,65.76,high,Yes,,No,No
+45.61,4.85,0.71,0.44,59.38,medium,Yes,,No,Yes
+38.02,6.24,0.60,0.44,65.56,high,Yes,,Yes,Yes
+46.34,5.36,0.70,0.44,57.46,medium,No,High School,No,No
+55.48,2.33,0.63,0.22,69.71,medium,Yes,Master,Yes,No
+70.88,5.76,0.83,0.44,80.90,high,Yes,,Yes,No
+23.81,6.22,0.89,0.33,58.95,high,Yes,High School,No,Yes
+80.00,6.12,0.49,0.44,72.43,medium,Yes,,Yes,No
+11.91,7.16,0.36,0.44,61.31,high,Yes,,Yes,Yes
+41.91,6.67,0.25,0.89,58.34,low,Yes,High School,Yes,Yes
+54.25,5.92,0.79,0.78,70.87,high,Yes,High School,No,No
+49.13,4.86,0.41,0.56,59.49,medium,No,High School,Yes,Yes
+34.07,1.68,0.17,0.89,56.81,low,Yes,Master,No,No
+40.98,5.86,0.76,0.44,65.42,medium,Yes,Master,No,No
+36.23,5.42,1.00,0.89,68.31,medium,Yes,Master,Yes,No
+34.62,5.54,0.67,0.11,53.67,medium,Yes,Master,No,No
+58.60,2.45,0.86,0.33,63.51,medium,Yes,Master,Yes,Yes
+50.39,2.84,0.69,0.56,59.51,low,Yes,,Yes,Yes
+32.90,7.11,0.65,1.00,67.19,medium,Yes,,No,No
+59.44,4.92,0.88,0.33,68.89,medium,Yes,High School,No,No
+49.57,6.36,0.60,0.33,62.00,medium,Yes,,Yes,No
+57.99,5.06,0.73,0.56,63.82,medium,Yes,Master,Yes,Yes
+54.94,5.06,0.74,0.78,73.67,high,Yes,,Yes,No
+30.63,6.88,0.52,0.67,67.33,high,Yes,,Yes,No
+35.11,3.97,0.90,1.00,74.07,high,Yes,,Yes,No
+56.90,5.19,0.63,0.56,64.92,medium,Yes,,Yes,No
+54.62,4.08,0.49,0.89,74.66,high,Yes,Master,No,Yes
+44.10,4.13,0.79,0.78,67.70,low,Yes,Master,Yes,Yes
+46.40,4.38,0.46,0.89,62.70,low,Yes,,Yes,No
+65.74,5.44,0.68,1.00,79.52,medium,Yes,Master,No,No
+34.58,4.04,0.67,0.33,55.64,high,Yes,,No,Yes
+53.56,7.51,0.92,1.00,80.81,medium,Yes,Master,Yes,No
+41.07,3.21,0.78,0.44,57.51,low,Yes,,Yes,Yes
+40.82,4.63,0.66,0.67,59.12,low,Yes,,No,Yes
+62.76,4.12,0.86,0.22,69.09,high,Yes,,Yes,No
+58.20,7.89,0.99,0.56,59.57,medium,No,Master,Yes,Yes
+58.00,5.39,0.80,0.78,72.30,medium,Yes,PhD,No,No
+66.20,7.06,0.67,0.67,69.85,medium,Yes,High School,Yes,No
+44.79,2.03,0.37,0.00,46.59,medium,Yes,High School,Yes,Yes
+55.81,5.53,0.42,0.56,67.47,medium,Yes,PhD,Yes,Yes
+39.27,6.78,0.60,0.44,62.18,medium,Yes,,Yes,No
+49.85,5.16,0.53,0.11,58.55,high,Yes,,Yes,Yes
+42.28,7.13,0.63,0.56,61.70,medium,Yes,,No,No
+46.06,3.97,0.68,1.00,65.76,medium,Yes,High School,Yes,No
+54.36,7.82,0.79,0.22,64.91,low,No,Master,Yes,No
+30.81,9.60,0.65,0.11,60.95,medium,Yes,Master,Yes,No
+79.32,4.27,0.78,0.67,68.01,medium,Yes,,No,Yes
+27.68,4.11,0.68,0.11,50.56,medium,Yes,,Yes,Yes
+24.21,7.91,0.21,0.33,53.60,low,Yes,Master,Yes,Yes
+63.75,8.16,0.45,0.56,74.06,high,Yes,High School,No,No
+57.64,3.95,0.64,0.89,62.84,medium,Yes,Master,Yes,No
+54.85,4.16,0.39,0.56,64.37,medium,Yes,,Yes,Yes
+54.92,4.44,0.81,0.11,67.44,high,Yes,,Yes,Yes
+44.24,2.31,1.00,0.33,62.11,medium,Yes,PhD,Yes,No
+29.49,3.16,0.95,0.67,65.34,high,Yes,Master,Yes,No
+45.71,2.99,0.62,0.67,61.38,medium,Yes,,No,No
+33.16,3.46,1.00,0.33,59.66,medium,Yes,Master,Yes,No
+60.70,4.93,0.70,0.78,72.47,high,No,,Yes,No
+41.99,5.47,0.59,0.33,52.61,medium,No,,Yes,No
+30.69,8.10,0.53,0.11,59.29,medium,Yes,PhD,Yes,No
+39.09,3.00,0.60,0.11,66.49,high,Yes,Master,Yes,No
+51.33,6.97,0.58,0.56,63.69,medium,Yes,,No,No
+35.05,4.57,0.71,0.67,64.18,medium,Yes,,Yes,Yes
+30.74,4.90,0.71,0.78,57.11,medium,No,High School,No,Yes
+48.51,6.35,0.67,1.00,69.34,high,Yes,High School,Yes,No
+48.53,2.75,0.77,0.89,73.44,high,Yes,,Yes,No
+36.00,5.76,0.94,0.56,66.68,medium,Yes,Master,Yes,No
+36.59,5.33,0.89,0.89,63.78,medium,Yes,,Yes,Yes
+48.31,5.98,0.33,0.00,64.76,high,Yes,Master,Yes,No
+20.31,5.58,0.08,1.00,57.50,low,Yes,High School,Yes,No
+20.99,9.91,0.89,0.78,66.06,medium,Yes,,No,Yes
+32.47,3.72,0.35,0.67,66.40,high,Yes,High School,Yes,No
+40.89,3.94,0.62,0.78,70.05,high,Yes,,Yes,No
+49.63,3.75,0.40,0.33,59.15,high,Yes,High School,Yes,No
+69.03,3.89,0.25,1.00,73.98,medium,Yes,PhD,Yes,No
+58.74,3.73,0.79,0.33,68.53,low,Yes,High School,Yes,No
+41.78,7.38,0.85,0.89,77.26,medium,Yes,PhD,Yes,No
+44.13,7.84,0.54,0.44,69.32,medium,No,,Yes,No
+27.74,3.86,0.07,0.44,58.91,medium,No,PhD,No,No
+44.14,3.34,0.54,0.44,61.48,high,No,,No,No
+39.63,5.94,0.76,0.00,59.56,low,Yes,PhD,Yes,No
+49.82,3.90,0.33,0.22,58.68,high,Yes,High School,Yes,Yes
+30.66,6.27,0.71,0.44,57.46,medium,Yes,Master,No,No
+53.10,5.41,0.67,1.00,75.89,medium,Yes,PhD,Yes,No
+69.99,1.97,0.80,0.67,64.91,low,No,High School,Yes,No
+42.63,8.10,0.70,0.11,59.56,medium,Yes,High School,Yes,No
+51.14,8.59,0.44,1.00,67.47,low,Yes,,Yes,Yes
+55.95,3.77,0.95,0.67,76.34,high,No,PhD,Yes,No
+37.76,4.22,0.63,0.22,56.52,high,Yes,,Yes,Yes
+48.18,5.57,0.66,0.22,57.77,medium,Yes,,Yes,Yes
+44.65,5.67,0.45,0.44,58.61,medium,Yes,High School,Yes,No
+46.07,6.32,0.57,1.00,67.10,high,Yes,High School,No,Yes
+31.56,9.02,0.47,0.78,65.02,medium,Yes,Master,Yes,No
+44.85,4.65,0.63,0.78,58.79,low,Yes,High School,Yes,No
+52.74,3.40,1.00,0.22,67.28,medium,Yes,,Yes,No
+68.63,2.24,0.35,0.44,68.27,high,Yes,PhD,No,No
+60.43,3.54,0.30,0.22,52.01,low,Yes,High School,No,Yes
+80.33,4.93,1.00,0.89,74.75,medium,Yes,Master,No,Yes
+31.66,8.59,0.62,0.44,70.21,high,Yes,High School,Yes,No
+58.98,3.96,0.51,0.67,65.98,low,Yes,,No,No
+47.50,5.45,0.91,0.44,59.43,low,No,High School,No,No
+80.94,4.97,0.53,0.56,74.75,medium,Yes,Master,Yes,No
+30.97,7.38,1.00,0.33,63.65,high,Yes,,Yes,Yes
+30.45,10.00,0.83,0.00,57.47,medium,Yes,,Yes,No
+34.45,3.94,0.56,0.33,66.84,high,Yes,,No,No
+9.05,4.02,1.00,0.33,48.78,medium,Yes,High School,Yes,Yes
+35.68,7.09,0.53,1.00,65.76,low,Yes,Master,Yes,Yes
+31.79,6.36,0.84,0.22,63.48,high,Yes,,No,Yes
+46.95,8.69,0.74,0.22,61.76,medium,Yes,Master,No,Yes
+50.14,6.17,0.97,0.33,67.39,medium,Yes,High School,No,No
+75.71,4.28,1.00,0.33,67.61,medium,No,Master,No,Yes
+60.28,6.18,0.68,0.67,71.72,medium,Yes,High School,Yes,Yes
+34.83,7.22,0.50,1.00,56.09,low,No,,No,Yes
+29.47,6.64,0.78,0.78,57.06,low,Yes,High School,Yes,No
+52.64,6.01,0.51,0.22,62.14,medium,Yes,Master,No,No
+22.44,7.13,1.00,0.78,67.81,high,Yes,,Yes,Yes
+74.97,7.34,0.70,1.00,80.07,medium,Yes,Master,No,No
+64.10,7.76,0.59,0.11,67.00,high,Yes,Master,No,Yes
+36.62,6.30,0.71,0.56,56.57,medium,Yes,High School,No,No
+15.89,4.67,0.36,0.56,54.27,medium,Yes,,Yes,Yes
+67.01,5.29,0.45,0.44,68.18,low,Yes,High School,Yes,No
+42.54,7.41,0.95,0.33,62.06,low,Yes,,No,No
+65.07,3.37,0.52,0.33,67.92,medium,Yes,Master,Yes,No
+17.87,5.74,0.43,0.56,61.51,high,Yes,Master,No,Yes
+34.45,4.21,0.79,0.67,68.66,high,Yes,,Yes,No
+44.53,5.06,0.94,0.89,75.78,high,Yes,,No,No
+45.23,7.56,0.84,0.89,70.18,medium,Yes,,Yes,Yes
+36.94,5.38,0.90,0.33,63.15,high,Yes,High School,No,No
+54.83,5.09,0.49,0.56,61.48,medium,Yes,Master,No,Yes
+26.65,2.28,0.34,0.78,50.54,low,Yes,,Yes,Yes
+42.07,6.49,1.00,0.33,65.90,high,No,Master,Yes,Yes
+46.45,6.29,0.60,0.44,62.59,medium,Yes,High School,Yes,No
+53.02,9.33,0.61,0.33,64.85,low,Yes,,Yes,No
+56.30,4.38,0.98,0.56,69.73,medium,Yes,,Yes,No
+25.70,5.44,0.80,0.56,59.00,medium,Yes,High School,No,Yes
+18.88,5.50,0.78,1.00,72.73,high,Yes,,Yes,No
+65.74,8.15,1.00,0.22,69.93,medium,Yes,Master,Yes,Yes
+49.98,4.81,0.52,0.67,67.98,high,Yes,Master,Yes,No
+31.97,5.56,0.88,0.56,58.51,low,Yes,,Yes,No
+70.30,6.22,0.68,0.89,72.49,medium,Yes,,Yes,Yes
+46.37,5.37,0.73,0.44,56.93,medium,Yes,High School,No,No
+64.10,4.11,1.00,0.56,75.20,medium,Yes,Master,No,No
+45.57,5.39,0.79,0.11,60.28,medium,Yes,High School,Yes,No
+78.79,7.15,0.79,0.44,83.02,high,Yes,PhD,Yes,No
+73.70,2.95,0.92,0.56,77.63,high,Yes,,No,No
+40.30,5.27,0.59,1.00,70.43,high,Yes,,Yes,No
+60.64,3.60,0.48,0.56,75.29,high,Yes,PhD,Yes,No
+55.20,7.39,0.43,0.44,63.27,high,No,High School,Yes,Yes
+67.25,1.95,0.22,0.67,64.53,medium,Yes,,Yes,No
+28.36,3.88,1.00,0.67,63.70,high,Yes,,No,No
+55.88,5.75,0.41,0.78,68.78,medium,Yes,High School,No,Yes
+62.08,8.13,0.62,0.11,62.16,medium,Yes,,Yes,Yes
+15.13,4.87,0.61,0.22,57.73,medium,Yes,Master,Yes,No
+24.72,3.89,0.74,0.78,57.26,medium,Yes,Master,No,No
+10.46,8.76,0.86,1.00,65.30,medium,No,High School,No,No
+39.95,2.10,0.87,1.00,73.95,high,Yes,PhD,No,Yes
+56.40,0.60,0.53,0.44,59.02,medium,Yes,High School,No,No
+69.48,5.88,0.63,0.56,62.10,low,Yes,High School,Yes,Yes
+45.68,4.00,0.74,0.33,61.87,medium,Yes,,No,No
+71.59,2.96,0.61,0.78,71.58,low,Yes,High School,No,No
+21.44,6.42,1.00,0.56,49.45,low,Yes,High School,Yes,Yes
+16.05,5.49,0.78,0.22,60.88,medium,Yes,PhD,No,No
+43.52,3.87,0.84,0.78,63.96,medium,Yes,,Yes,No
+50.85,2.44,0.82,1.00,68.25,medium,Yes,High School,Yes,No
+43.90,6.74,0.94,0.00,60.77,high,No,High School,Yes,No
+9.99,6.30,0.71,0.78,65.52,high,Yes,Master,Yes,No
+42.96,4.80,0.37,0.00,57.87,medium,Yes,Master,Yes,No
+22.70,8.69,0.76,0.22,53.71,medium,Yes,,Yes,Yes
+55.61,2.86,0.52,0.78,65.55,medium,Yes,High School,Yes,Yes
+50.55,1.95,0.55,1.00,58.70,high,No,High School,Yes,Yes
+28.78,3.62,0.81,0.89,60.78,low,Yes,High School,Yes,No
+35.88,4.91,0.96,0.33,55.74,low,Yes,High School,Yes,No
+26.79,5.49,0.67,0.67,61.78,high,Yes,,No,No
+43.40,4.52,0.74,0.89,67.57,medium,Yes,High School,Yes,No
+60.36,5.70,1.00,0.56,59.12,low,No,,Yes,No
+28.02,2.50,0.73,0.33,55.26,medium,Yes,,No,No
+52.85,7.89,1.00,0.11,69.01,high,Yes,PhD,No,No
+35.61,4.84,0.80,0.78,74.02,high,Yes,PhD,No,No
+31.23,7.23,0.26,1.00,64.52,high,No,,Yes,No
+42.66,5.69,0.84,0.33,58.99,medium,Yes,,Yes,Yes
+27.19,5.91,0.76,0.33,59.45,medium,Yes,,No,No
+35.22,6.14,0.97,0.56,64.05,high,Yes,,Yes,Yes
+24.48,5.90,0.83,0.56,64.67,high,Yes,Master,Yes,Yes
+77.19,6.29,0.64,0.78,70.92,medium,Yes,,Yes,No
+45.03,7.66,0.39,0.44,71.22,high,Yes,Master,No,No
+32.78,5.39,0.62,0.56,67.27,low,Yes,PhD,Yes,No
+48.01,6.42,0.47,0.56,72.91,medium,Yes,,No,No
+42.57,4.82,0.54,1.00,67.36,medium,Yes,,No,No
+40.76,7.88,0.81,0.56,65.74,medium,Yes,High School,Yes,Yes
+54.68,3.65,1.00,0.33,61.61,high,Yes,High School,No,No
+57.07,8.60,0.76,0.67,72.25,low,Yes,,No,No
+35.60,4.92,0.39,0.33,55.58,medium,No,High School,No,No
+34.85,2.14,0.77,0.44,63.40,high,Yes,Master,Yes,No
+39.86,5.26,0.95,0.33,68.61,high,Yes,High School,No,No
+6.08,3.64,0.53,1.00,50.89,low,Yes,,Yes,Yes
+19.19,6.68,0.64,0.11,52.94,medium,Yes,,No,No
+67.23,3.69,0.67,0.44,70.52,medium,Yes,Master,Yes,No
+71.86,4.11,0.49,0.33,58.99,low,Yes,,Yes,No
+40.29,1.22,0.82,0.78,68.26,high,Yes,Master,No,Yes
+54.05,4.10,0.64,0.00,56.17,high,No,,No,No
+49.63,0.15,0.77,0.44,53.01,low,Yes,,Yes,No
+95.76,1.83,0.46,0.33,58.41,low,Yes,High School,Yes,Yes
+63.10,6.52,0.57,0.44,66.64,low,Yes,,Yes,No
+42.31,6.57,0.84,0.22,63.00,high,Yes,Master,No,Yes
+28.52,5.85,0.58,0.78,54.70,low,Yes,,No,No
+17.67,3.07,1.00,0.56,57.72,medium,Yes,Master,No,No
+47.84,4.90,0.58,0.33,62.01,medium,Yes,,Yes,No
+31.84,4.99,0.72,0.44,56.18,medium,Yes,High School,Yes,No
+20.74,2.68,0.89,0.33,40.20,low,No,High School,No,Yes
+33.67,8.01,0.34,1.00,73.43,medium,Yes,,No,No
+26.42,6.75,0.26,0.67,64.40,high,Yes,Master,Yes,No
+72.56,4.56,0.32,0.44,68.03,high,Yes,Master,No,Yes
+59.14,5.05,0.96,0.56,72.53,high,Yes,,Yes,No
+44.31,5.42,0.54,0.56,58.85,low,Yes,,Yes,No
+69.11,0.92,1.00,1.00,71.83,medium,Yes,,Yes,Yes
+45.73,4.51,0.54,0.78,62.85,medium,No,,Yes,Yes
+30.09,3.64,0.71,0.89,56.00,medium,No,High School,Yes,Yes
+69.83,3.00,1.00,0.67,70.75,high,Yes,High School,Yes,No
+53.43,4.44,1.00,0.22,67.03,medium,Yes,High School,Yes,No
+27.16,8.60,1.00,0.33,57.42,low,Yes,High School,No,No
+41.27,6.28,0.95,0.56,74.95,high,Yes,High School,Yes,No
+29.85,3.86,0.91,0.33,55.27,high,Yes,High School,Yes,No
+21.40,6.15,0.81,0.78,60.38,low,Yes,,Yes,No
